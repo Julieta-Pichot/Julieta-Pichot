@@ -3,7 +3,7 @@
 Soy Julieta Pichot, estudiante y futura tecnica en computacion, tambien estoy comenzando mi carrera en la Universidad de Buenos Aires para ser Arquitecta.   
 Me gusta programar y soy una persona muy comprometida con los objetivos que me propongo, me gusta ponerme retos para poder llevarme a mi mejor version posible y asi poder destacar.
 
-
+```python
 class AboutMe:
     """Professional profile."""
 
@@ -42,4 +42,6 @@ class AboutMe:
      LIFESTYLE = [
         "Catlover 😻",
     ]
+    
+    LINKEDIN = "www.linkedin.com/in/julii-pichot-09328538b"
 
