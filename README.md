@@ -34,7 +34,8 @@ class AboutMe:
 
     PROYECTS = [
         "Batalla Naval ⚓",
-        "Tamagotchi 🐣",
+        "Colectivo 🚌",
+        "Granja 🐣",
         "Trabajos GeneracionT",
         "ECOciudad ♻️🌏"
     ]
